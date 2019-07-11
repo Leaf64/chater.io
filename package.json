@@ -1,0 +1,18 @@
+{
+  "name": "Chater.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Grzegorz Baweda",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  },
+  "engines": {
+        "node": "8.9.3"
+}
+}
